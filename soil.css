@@ -1,0 +1,27 @@
+.logo{
+    color: red;
+    border: 2px solid black;
+    font-size: 100px;
+    margin: 10px;
+    padding:10px;
+    text-decoration:none;
+    background-image: url(134.jpg);
+}
+#kk{
+    text-decoration: none;
+}
+#img{
+    background-image: url(134.jpg);
+    width: 100px;
+    height: auto;
+    padding:10px;   
+}
+.link{
+    text-decoration:none;
+    color: black;
+    padding: red;
+    font-size: 25px;
+}
+body{
+    background-image: url(photo-1434725039720-aaad6dd32dfe.avif);
+}

@@ -1,0 +1,58 @@
+.logo{
+    color: red;
+    border: 2px solid black;
+    font-size: 100px;
+    margin: 10px;
+    padding:10px;
+    text-decoration:none;
+    background-image: url(134.jpg);
+}
+#kk{
+    text-decoration: none;
+}
+#img{
+    background-image: url(134.jpg);
+    width: 100px;
+    height: auto;
+    padding:10px;   
+}
+.link{
+    text-decoration:none;
+    color: black;
+    padding: red;
+    font-size: 25px;
+}
+
+    
+
+.dj{
+    text-decoration:none;
+    color: black;   
+}
+.abouts{
+    padding: 20px;
+    margin: 20px;
+    border: 100px black;
+    background-color: rgb(250, 180, 191);
+    text-align: center;
+}
+.imgcon{
+    flex: 1;
+    background-image: url('logo.png');
+    background-size: cover;
+    background-position: right;
+    height: 200px; 
+    width: 200px;
+  }
+.text{
+    flex: 1;
+    padding: 50px;
+}
+.container{
+    display: flex;
+  flex-direction: row;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
