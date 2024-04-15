@@ -6,6 +6,8 @@
     padding:10px;
     text-decoration:none;
     background-image: url(134.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
 }
 #kk{
     text-decoration: none;
@@ -23,6 +25,11 @@
     font-size: 25px;
 }
 
-body{
+#hype{
     background-image:url(photo-1434725039720-aaad6dd32dfe.avif);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.font{
+    color: aqua;
 }
